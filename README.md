@@ -1,7 +1,7 @@
 ghsample
 ========
 
-new sub title
+New Sub Title
 ---
 
 
